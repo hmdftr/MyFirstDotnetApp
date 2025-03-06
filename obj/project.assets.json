@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Windows\\System32\\MyFirstDotnetApp\\MyFirstDotnetApp.csproj",
+      "projectUniqueName": "C:\\RPGSystems\\MyFirstDotnetApp\\MyFirstDotnetApp.csproj",
       "projectName": "MyFirstDotnetApp",
-      "projectPath": "C:\\Windows\\System32\\MyFirstDotnetApp\\MyFirstDotnetApp.csproj",
+      "projectPath": "C:\\RPGSystems\\MyFirstDotnetApp\\MyFirstDotnetApp.csproj",
       "packagesPath": "C:\\Users\\Fitri\\.nuget\\packages\\",
-      "outputPath": "C:\\Windows\\System32\\MyFirstDotnetApp\\obj\\",
+      "outputPath": "C:\\RPGSystems\\MyFirstDotnetApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

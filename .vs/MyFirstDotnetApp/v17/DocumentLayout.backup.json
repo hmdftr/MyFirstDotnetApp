@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\RPGSystems\\MyFirstDotnetApp\\",
+  "WorkspaceRootPath": "C:\\Windows\\System32\\MyFirstDotnetApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89EBB172-E360-46FB-804B-853EDE11A562}|MyFirstDotnetApp.csproj|c:\\rpgsystems\\myfirstdotnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89EBB172-E360-46FB-804B-853EDE11A562}|MyFirstDotnetApp.csproj|c:\\windows\\system32\\myfirstdotnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89EBB172-E360-46FB-804B-853EDE11A562}|MyFirstDotnetApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\RPGSystems\\MyFirstDotnetApp\\Program.cs",
+              "DocumentMoniker": "C:\\Windows\\System32\\MyFirstDotnetApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\RPGSystems\\MyFirstDotnetApp\\Program.cs",
+              "ToolTip": "C:\\Windows\\System32\\MyFirstDotnetApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
