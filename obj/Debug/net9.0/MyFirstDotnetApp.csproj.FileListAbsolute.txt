@@ -1,0 +1,14 @@
+C:\Windows\System32\MyFirstDotnetApp\bin\Debug\net9.0\MyFirstDotnetApp.exe
+C:\Windows\System32\MyFirstDotnetApp\bin\Debug\net9.0\MyFirstDotnetApp.deps.json
+C:\Windows\System32\MyFirstDotnetApp\bin\Debug\net9.0\MyFirstDotnetApp.runtimeconfig.json
+C:\Windows\System32\MyFirstDotnetApp\bin\Debug\net9.0\MyFirstDotnetApp.dll
+C:\Windows\System32\MyFirstDotnetApp\bin\Debug\net9.0\MyFirstDotnetApp.pdb
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.AssemblyInfoInputs.cache
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.AssemblyInfo.cs
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.csproj.CoreCompileInputs.cache
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.dll
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\refint\MyFirstDotnetApp.dll
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.pdb
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\MyFirstDotnetApp.genruntimeconfig.cache
+C:\Windows\System32\MyFirstDotnetApp\obj\Debug\net9.0\ref\MyFirstDotnetApp.dll
